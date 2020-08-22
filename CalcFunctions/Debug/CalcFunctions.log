@@ -1,0 +1,50 @@
+﻿  CalcFunctions.cpp
+C:\Development\cpp\calcFunctions\CalcFunctions\funcoes.cpp(15,9): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Development\cpp\calcFunctions\CalcFunctions\funcoes.cpp(23,9): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Development\cpp\calcFunctions\CalcFunctions\funcoes.cpp(31,9): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Development\cpp\calcFunctions\CalcFunctions\funcoes.cpp(42,9): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Development\cpp\calcFunctions\CalcFunctions\funcoes.cpp(55,9): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Development\cpp\calcFunctions\CalcFunctions\funcoes.cpp(56,10): warning C4244: 'return': conversão de 'int' para 'float', possível perda de dados
+C:\Development\cpp\calcFunctions\CalcFunctions\funcoes.cpp(66,9): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\Development\cpp\calcFunctions\CalcFunctions\funcoes.cpp(74,10): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\Development\cpp\calcFunctions\CalcFunctions\funcoes.cpp(82,10): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(71,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D453' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(71,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D465' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(71,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D458' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(72,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D453' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(72,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D465' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(72,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D458' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(73,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D453' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(73,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D465' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(73,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D458' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(74,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D453' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(74,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D465' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(74,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D452' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(75,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D453' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(75,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D465' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(75,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D459' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(75,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D45C' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(75,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D454' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(75,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D458' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(76,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D453' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(76,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D465' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(76,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D459' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(76,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D45B' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(77,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D453' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(77,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D465' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(78,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D453' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(78,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D465' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(78,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D460' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(78,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D452' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(78,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D45B' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(79,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D453' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(79,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D465' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(79,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D450' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(79,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D45C' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(79,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D460' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(80,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D453' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(80,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D465' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(80,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D461' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\menus.cpp(80,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\U0001D454' não pode ser representado na página de código atual (1252)
+C:\Development\cpp\calcFunctions\CalcFunctions\CalcFunctions.cpp(15,13): warning C4129: 'c': sequência de escape de caractere não reconhecida
+  CalcFunctions.vcxproj -> C:\Development\cpp\calcFunctions\CalcFunctions\Debug\CalcFunctions.exe
