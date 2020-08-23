@@ -1,0 +1,2 @@
+C:\Development\cpp\calcFunctions\CalcFunctions\x64\Debug\CalcFunctions.exe
+C:\Development\cpp\calcFunctions\CalcFunctions\x64\Debug\CalcFunctions.pdb
